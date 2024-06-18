@@ -1,7 +1,5 @@
-# kratos-cron-logger
-[cron](https://github.com/robfig/cron) logger adapter for [go-kratos](https://github.com/go-kratos/kratos)
+package main
 
-```go
 import (
 	"os"
 
@@ -19,4 +17,3 @@ func main() {
 		),
 	)
 }
-```
